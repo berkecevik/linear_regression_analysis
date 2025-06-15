@@ -13,21 +13,8 @@ This ROS2 package performs linear regression analysis on three different dataset
 | `HumanBrain_WeightandHead_size.csv` | Head Size (cm³)             | Brain Weight (grams)       | 237     |
 | `boston_housing.csv`             | All except `MEDV`              | `MEDV` (home price $1000s) | 506     |
 
----
 
-## 📊 Outputs
-
-All outputs will be saved under `ros2_results/`:
-
-- `height_weight_regression.png`
-- `brain_weight_regression.png`
-- `boston_feature_importance.png`
-- `boston_actual_vs_predicted.png`
-- `boston_residuals.png`
-- `final_analysis_report.txt`
-
-
-## 👤 Author
+## Author
 
 Berke Çevik – [University of Europe for Applied Sciences]
 
