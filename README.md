@@ -1,5 +1,5 @@
 
-# ROS2 Linear Regression Analysis 📈🤖
+# ROS2 Linear Regression Analysis 
 
 This ROS2 package performs linear regression analysis on three different datasets using Python, scikit-learn, and `rclpy`. It demonstrates modular data processing using ROS2 nodes, inter-node communication via topics, and visual output generation.
 
